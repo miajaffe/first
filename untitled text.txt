@@ -1,3 +1,4 @@
 Github seminar:
 -Tool for version control
 -http://training.github.com/materials/
+-try this
